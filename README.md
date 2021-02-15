@@ -26,7 +26,7 @@ https://github.com/dkaskgkdua/algoPro
 
 
 ### About Me
-- 🔭 company : SGU (2020. 03 ~ ) / 패션 ERP 솔루션
+- 🔭 company : [SGU](http://www.sgu.co.kr/) (2020. 03 ~ ) / 패션 ERP 솔루션
 - 📫 Email : dkaskgkdua@gmail.com
 - 🌱 BLOG : https://song8420.tistory.com/
 <!--
