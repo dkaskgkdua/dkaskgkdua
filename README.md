@@ -28,7 +28,7 @@ https://github.com/dkaskgkdua/algoPro
 ### About Me
 - 🔭 company : SGU (2020. 03 ~ ) / 패션 ERP 솔루션
 - 📫 Email : dkaskgkdua@gmail.com
-
+- 🌱 BLOG : https://song8420.tistory.com/
 <!--
 **dkaskgkdua/dkaskgkdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
