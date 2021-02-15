@@ -24,6 +24,9 @@ https://github.com/dkaskgkdua/algoPro
 
 - AWS
 
+### Latest Side Project
+- https://github.com/han-jungwon/lawfirm
+- https://github.com/dkaskgkdua/portfordev
 
 ### About Me
 - 🔭 company : [SGU](http://www.sgu.co.kr/) (2020. 03 ~ ) / 패션 ERP 솔루션
