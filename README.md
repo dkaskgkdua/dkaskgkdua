@@ -3,7 +3,6 @@
 -----
 ⚡잘하는 개발자로 성장하자!⚡
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkaskgkdua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D7CECE&title=hits&edge_flat=false"/></a>
 
 ### Main
 <image src="https://user-images.githubusercontent.com/56568571/107945025-5ed89680-6fd2-11eb-8267-3eedb9c2ccac.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945889-9d228580-6fd3-11eb-873c-1919bb065a90.png" height="50" width="50">
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkaskgkdua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D7CECE&title=hits&edge_flat=false"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkaskgkdua)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkaskgkdua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
