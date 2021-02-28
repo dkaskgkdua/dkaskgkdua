@@ -24,7 +24,7 @@
 - [개발자를 위한 포트폴리오 사이트](https://github.com/dkaskgkdua/portfordev)
 
 ### About Me
-- 🔭 company : [SGU](http://www.sgu.co.kr/) (2020. 03 ~ ) / 패션 ERP 솔루션
+- 🔭 company : SGU (2020. 03 ~ )
 - 📫 Email : dkaskgkdua@gmail.com
 - 🌱 BLOG : https://song8420.tistory.com/
 <!--
