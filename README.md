@@ -26,7 +26,8 @@
 - [개발자를 위한 포트폴리오 사이트](https://github.com/dkaskgkdua/portfordev)
 
 ### About Me
-- 🔭 company : SGU (2020. 03 ~ )
+- 🔭 company : mobin (2021. 05 ~ )   
+                SGU  (2020. 03 ~ 2021. 04)
 - 📫 Email : dkaskgkdua@gmail.com
 - 🌱 BLOG : https://song8420.tistory.com/
 <!--
