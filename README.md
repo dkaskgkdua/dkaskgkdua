@@ -11,15 +11,9 @@
 <image src="https://user-images.githubusercontent.com/56568571/107945705-5cc30780-6fd3-11eb-982c-56fd269ce495.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945729-651b4280-6fd3-11eb-9c68-488239499c4d.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945808-82501100-6fd3-11eb-83a6-2a2da0d71ae4.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945918-a4e22a00-6fd3-11eb-9ba7-ae0995463e47.png" height="50" width="50">  <image src="https://user-images.githubusercontent.com/56568571/107945749-6cdae700-6fd3-11eb-9051-b7377068e5b6.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945949-aca1ce80-6fd3-11eb-9bb9-cc59ae572a59.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945967-b3c8dc80-6fd3-11eb-9af1-80fa97dd0efa.png" height="50" width="50">
 
 ### Learning
-- [Spring Security Architecture](https://github.com/dkaskgkdua/Inflearn_Boot_Security)
-
-- [JPA](https://github.com/dkaskgkdua/inflearn_Boot_JPA)
-
-- [Vue](https://github.com/dkaskgkdua/lecture-vue)
+- [React, typescript, Vue](https://github.com/dkaskgkdua/dockerfile-folder)
 
 - [Algorithm](https://github.com/dkaskgkdua/algoPro)
-
-- AWS
 
 ### Latest Side Project
 - [법무법인 송한(가상) 사이트 구축](https://github.com/han-jungwon/lawfirm)
