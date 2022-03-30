@@ -15,9 +15,6 @@
 
 - [Algorithm](https://github.com/dkaskgkdua/algoPro)
 
-### Latest Side Project
-- [법무법인 송한(가상) 사이트 구축](https://github.com/han-jungwon/lawfirm)
-- [개발자를 위한 포트폴리오 사이트](https://github.com/dkaskgkdua/portfordev)
 
 ### About Me
 - 🔭 company : mobin (2021. 05 ~ )   
