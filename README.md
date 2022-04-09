@@ -11,9 +11,9 @@
 <image src="https://user-images.githubusercontent.com/56568571/107945705-5cc30780-6fd3-11eb-982c-56fd269ce495.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945729-651b4280-6fd3-11eb-9c68-488239499c4d.png" height="50" width="50">  <image src="https://user-images.githubusercontent.com/56568571/107945918-a4e22a00-6fd3-11eb-9ba7-ae0995463e47.png" height="50" width="50">  <image src="https://user-images.githubusercontent.com/56568571/107945749-6cdae700-6fd3-11eb-9051-b7377068e5b6.png" height="50" width="50"> 
 
 ### Learning
-- [React, typescript, Vue](https://github.com/dkaskgkdua/dockerfile-folder)
+- [React, typescript](https://github.com/dkaskgkdua/dockerfile-folder)
 
-- [Algorithm](https://github.com/dkaskgkdua/algoPro)
+- Algorithm
 
 
 ### About Me
