@@ -17,13 +17,11 @@
 
 
 ### About Me
-- 🔭 company : mobin (2021. 05 ~ )   
-                SGU  (2020. 03 ~ 2021. 04)
 - 📫 Email : dkaskgkdua@gmail.com
 - 🌱 BLOG : https://song8420.tistory.com/
 
 ### Introduce
-3년 차 개발자로 현재 스타트업에서 라이크 커머스 플랫폼을 개발/운영하고 있습니다.
+3년 차 개발자로 현재 커머스 분야에서 개발/운영하고 있습니다.
 새로운 내용을 공부하고 공유하는 것을 좋아합니다. 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkaskgkdua&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D7CECE&title=hits&edge_flat=false"/></a>
