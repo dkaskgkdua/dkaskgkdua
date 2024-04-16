@@ -1,6 +1,6 @@
 # Song MinJun | 송민준 
 ### 소개
-4년 차 개발자로 현재 커머스 분야에서 개발/운영하고 있습니다.
+5년 차 개발자로 현재 커머스 분야에서 개발/운영하고 있습니다.
 새로운 내용을 공부하고 공유하는 것을 좋아합니다. 
 
 - 📫 Email : dkaskgkdua@gmail.com
@@ -12,12 +12,6 @@
 
 ### +
 <image src="https://user-images.githubusercontent.com/56568571/107945705-5cc30780-6fd3-11eb-982c-56fd269ce495.png" height="50" width="50"> <image src="https://user-images.githubusercontent.com/56568571/107945729-651b4280-6fd3-11eb-9c68-488239499c4d.png" height="50" width="50">  <image src="https://user-images.githubusercontent.com/56568571/107945918-a4e22a00-6fd3-11eb-9ba7-ae0995463e47.png" height="50" width="50">  <image src="https://user-images.githubusercontent.com/56568571/107945749-6cdae700-6fd3-11eb-9051-b7377068e5b6.png" height="50" width="50"> 
-
-### 진행 중...
-- [사이드프로젝트](https://github.com/Camping-Side)
-  
-- [MSA](https://github.com/dkaskgkdua/msa)
-
 
 
 
