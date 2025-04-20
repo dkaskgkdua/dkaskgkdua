@@ -1,7 +1,7 @@
 # Song MinJun | 송민준 
 ### 소개
-5년 차 개발자로 현재 커머스 분야에서 개발/운영하고 있습니다.
-새로운 내용을 공부하고 공유하는 것을 좋아합니다. 
+6년 차 개발자로 현재 물류/유통 분야에서 개발/운영하고 있습니다.
+
 
 - 📫 Email : dkaskgkdua@gmail.com
 - 🌱 BLOG : https://song8420.tistory.com/
